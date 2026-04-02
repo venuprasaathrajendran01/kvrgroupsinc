@@ -14,7 +14,7 @@ window.addEventListener('load', function() {
 
 // Typewriter effect
 function typeWriter() {
-    const text = "Welcome to Kvr Groups.";
+    const text = "Welcome to samplewebpage";
     const speed = 150; 
     let i = 0;
     const typewriterElement = document.getElementById('typewriter');
