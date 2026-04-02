@@ -66,7 +66,7 @@ faders.forEach(fader => {
 
 // Google Forms Redirection (when register button is clicked)
 document.getElementById('registerButton').addEventListener('click', function() {
-    window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScityZxNcVvdvSAwwqjVdkfNBvGkmB4IHqmWOFrfbaBtiBeQA/viewform?vc=0&c=0&w=1&flr=0'; // Replace with your Google Forms link
+    window.location.href = ''; // Replace with your Google Forms link
 });
 // Function to toggle the navigation menu
 function toggleMenu() {
